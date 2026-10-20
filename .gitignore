@@ -1,6 +1,7 @@
 # Build products
 build/
 *.app
+!Release/*.app
 *.dmg
 Tendedero
 *.o
