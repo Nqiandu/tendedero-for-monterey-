@@ -1,0 +1,19 @@
+# Build products
+build/
+*.app
+*.dmg
+Tendedero
+*.o
+*.swiftmodule
+
+# Xcode
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+DerivedData/
+
+# macOS
+.DS_Store
+
+# Misc
+*.log
