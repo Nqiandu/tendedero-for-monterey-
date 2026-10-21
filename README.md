@@ -69,7 +69,7 @@
 ## 从源码编译
 
 ```bash
-git clone https://github.com/你的用户名/tendedero-mac12.git
+git clone https://github.com/Nqiandu/tendedero-for-monterey-.git
 cd tendedero-mac12
 
 # 编译二进制
